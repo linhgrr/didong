@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvDisplay" type="id" />
+    <item name="keypadFlow" type="id" />
+    <item name="btnCE" type="id" />
+    <item name="btnC" type="id" />
+    <item name="btnBS" type="id" />
+    <item name="btnDiv" type="id" />
+    <item name="btn7" type="id" />
+    <item name="btn8" type="id" />
+    <item name="btn9" type="id" />
+    <item name="btnMul" type="id" />
+    <item name="btn4" type="id" />
+    <item name="btn5" type="id" />
+    <item name="btn6" type="id" />
+    <item name="btnSub" type="id" />
+    <item name="btn1" type="id" />
+    <item name="btn2" type="id" />
+    <item name="btn3" type="id" />
+    <item name="btnAdd" type="id" />
+    <item name="btnPlusMinus" type="id" />
+    <item name="btn0" type="id" />
+    <item name="btnDot" type="id" />
+    <item name="btnEq" type="id" />
+</resources>

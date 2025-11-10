@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exchange</string>
+    <string name="chuy_n_i_ti_n_t">Chuyển đổi tiền tệ</string>
+
+    <string-array name="currencies">
+        <item>USD - Đô la Mỹ</item>
+        <item>EUR - Euro</item>
+        <item>GBP - Bảng Anh</item>
+        <item>JPY - Yên Nhật</item>
+        <item>CNY - Nhân dân tệ</item>
+        <item>KRW - Won Hàn Quốc</item>
+        <item>THB - Baht Thái Lan</item>
+        <item>SGD - Đô la Singapore</item>
+        <item>AUD - Đô la Úc</item>
+        <item>CAD - Đô la Canada</item>
+        <item>VND - Đồng Việt Nam</item>
+    </string-array>
+</resources>
